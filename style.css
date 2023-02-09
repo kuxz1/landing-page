@@ -121,3 +121,32 @@ ul {
 }
 
 /* third section */
+
+.third-container {
+    height: 400px;
+    background-color: #E5E7EB;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.quote-container {
+    width: 785px;
+}
+
+
+
+.quote {
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 300;
+    margin-bottom: 0px;
+}
+
+.tag {
+    font-size: 23px;
+    font-weight: 800;
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 36px;
+}
