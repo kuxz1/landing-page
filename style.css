@@ -171,6 +171,7 @@ ul {
 .action-title {
     color: white;
     font-size: 24px;
+    font-weight: 600;
 }
 
 .action-subtext {
@@ -188,3 +189,19 @@ ul {
 }
 
 /* footer */
+
+.footer {
+    background-color: #1F2937;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+
+
+footer {
+   color: white;
+   font-size: 17px;
+}
